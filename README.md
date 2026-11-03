@@ -54,7 +54,8 @@ python3 -m http.server 8000
 .
 ├── index.html            # 单文件网页（全部内联）
 ├── README.md             # 本说明文档
+├── TEST_REPORT.md        # 自动化测试报告
 └── docs/
-    ├── screenshots/      # 界面截图
+    ├── screenshots/      # 界面截图与测试截图
     └── evidence/         # 前后对比截图
 ```
